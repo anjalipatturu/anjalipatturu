@@ -61,7 +61,7 @@
 
 ### 📌 Featured Projects
 
-### 🚀 [CivilityAI]
+### 🚀 CivilityAI
 
 Civility.ai is a full-stack content moderation system that automatically reviews user-generated content before publication. It uses Google's Gemini AI to detect harmful, abusive, or inappropriate content across multiple media types.
 
@@ -74,7 +74,39 @@ Civility.ai is a full-stack content moderation system that automatically reviews
 
 🔗 **Repo:**(https://github.com/anjalipatturu/CivilityAI.git)
 
----
+
+### 🎙️ Voxora
+
+A lightweight, locally-run speech enhancement system: noisy audio in, clearer speech out. Built incrementally, phase by phase, to eventually run on resource-constrained (edge) devices.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6600?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+🔗 **Repo:** (https://github.com/anjalipatturu/Voxora.git)
+
+
+### 🏠 House Price Prediction
+
+A machine learning web application that predicts house prices based on property features such as bedrooms, bathrooms, living area, location, condition, and more.
+
+The project uses a Random Forest Regression model with a FastAPI backend and Streamlit frontend, and the complete application is containerized using Docker Compose.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2A308B?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+🔗 **Repo:** (https://github.com/anjalipatturu/HousePricePrediction.git)
 
 ---
 
