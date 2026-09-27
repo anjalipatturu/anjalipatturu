@@ -75,6 +75,7 @@ Civility.ai is a full-stack content moderation system that automatically reviews
 🔗 **Repo:**(https://github.com/anjalipatturu/CivilityAI.git)
 
 
+
 ### 🎙️ Voxora
 
 A lightweight, locally-run speech enhancement system: noisy audio in, clearer speech out. Built incrementally, phase by phase, to eventually run on resource-constrained (edge) devices.
@@ -87,6 +88,7 @@ A lightweight, locally-run speech enhancement system: noisy audio in, clearer sp
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 🔗 **Repo:** (https://github.com/anjalipatturu/Voxora.git)
+
 
 
 ### 🏠 House Price Prediction
