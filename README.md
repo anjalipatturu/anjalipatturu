@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-patturu-b64b0631b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:anjalipatturu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://x.com/anjali9253"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -60,23 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
 ### 📌 Featured Projects
 
 <p align="center">
@@ -98,25 +80,21 @@
 - 🌟 Built and deployed multiple AI & full-stack projects
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalipatturu&style=flat-square&color=6C63FF" alt="Profile Views"/>
-</p>
-
-<p align="center"><i>⭐ Feel free to explore my repos and connect — always open to collaborating on cool projects!</i></p>
-
----
-
 <h3 align="center">📬 Contact Me</h3>
 
 <p align="center">
   <a href="anjalipatturu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/anjali9253">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/anjali-patturu-b64b0631b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center"><i>⭐ Feel free to explore my repos and connect — always open to collaborating on cool projects!</i></p>
+
