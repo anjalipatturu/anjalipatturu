@@ -61,14 +61,20 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_1&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_2&theme=radical&hide_border=true"/>
-  </a>
-</p>
+### 🚀 [CivilityAI]
+
+Civility.ai is a full-stack content moderation system that automatically reviews user-generated content before publication. It uses Google's Gemini AI to detect harmful, abusive, or inappropriate content across multiple media types.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Web Speech API](https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-FF6F00?style=for-the-badge&logo=soundcharts&logoColor=white)
+
+🔗 **Repo:**(https://github.com/anjalipatturu/CivilityAI.git)
+
+---
 
 ---
 
