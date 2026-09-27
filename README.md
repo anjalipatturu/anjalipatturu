@@ -92,10 +92,10 @@
 
 ### 🏆 Achievements
 
-- 🥇 **Achievement 1** — short description (e.g. Winner, XYZ Hackathon 2025)
-- 🎓 **Achievement 2** — short description (e.g. Certified in AWS / Google ML)
-- 📈 **Achievement 3** — short description (e.g. Contributed to X open-source project)
-- 🌟 **Achievement 4** — short description (e.g. Built an app with 1000+ users)
+- 🥇 Shortlisted for SIH Hackathon
+- 🎓 Solved 150+ LeetCode Problems
+- 📈 Consistent coding practice
+- 🌟 Built and deployed multiple AI & full-stack projects
 
 ---
 
