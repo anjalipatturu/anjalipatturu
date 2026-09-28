@@ -10,6 +10,21 @@
   <a href="https://x.com/anjali9253"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anjali%20Patturu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Hi%20there%2C%20welcome%20to%20my%20profile%20%F0%9F%91%8B&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Building+things+for+the+web;Always+learning"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anjali-patturu-b64b0631b/"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anjalipatturu@gmail.com"><img src="https://img.shields.io/badge/Email-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/anjali9253"><img src="https://img.shields.io/badge/Twitter-6C63FF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+</div>
+
+
 ---
 
 ### 🚀 About Me
